@@ -1,0 +1,4 @@
+repository "TUT-Suika-Game@SerenaTaN5@cloud"
+  path "/"
+    br "/main"
+    co "/main"
